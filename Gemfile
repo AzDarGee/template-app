@@ -16,6 +16,7 @@ gem 'devise'
 gem 'stripe'
 gem 'gon'
 gem 'aws-sdk-s3'
+gem 'cocoon'
 
 
 group :development, :test do
